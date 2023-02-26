@@ -1,0 +1,5 @@
+TOKEN = "Your discord token"
+client_id = "Your spotify client id"
+client_secret = "Your spotify client secret"
+redirect_uri = "http://localhost:8888/callback"
+scope = "user-read-playback-state,user-modify-playback-state,user-read-currently-playing"
